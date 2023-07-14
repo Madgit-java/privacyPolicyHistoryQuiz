@@ -1,4 +1,4 @@
-#Privacy Policy for MathGames
+## Privacy Policy for MathGames
 
 Privacy Policy
 Last updated: August 08, 2022
