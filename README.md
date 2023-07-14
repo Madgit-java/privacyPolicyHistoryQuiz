@@ -1,7 +1,7 @@
-## Privacy Policy for MathGames
+## Privacy Policy for History Quiz
 
 Privacy Policy
-Last updated: August 08, 2022
+Last updated: July 16, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -18,9 +18,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application means the software program provided by the Company downloaded by You on any electronic device, named MathGames
+Application means the software program provided by the Company downloaded by You on any electronic device, named HistoryQuiz
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to MathGames.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to HistoryQuiz.
 
 Country refers to: Ukraine
 
@@ -129,4 +129,3 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 By email: history.quiz.ab@gmail.com
-Generated using Free Privacy Policy Generator
